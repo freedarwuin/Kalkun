@@ -41,7 +41,7 @@ $db['default']['hostname'] = "localhost";
 
 // MySQL
 $db['default']['username'] = "root";
-$db['default']['password'] = "password";
+$db['default']['password'] = "p0o9i8u7";
 $db['default']['database'] = "kalkun";
 $db['default']['dbdriver'] = "mysql";
 
